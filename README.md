@@ -7,4 +7,4 @@ is our target variable and 17 columns of symptoms that are independent features.
 will look like the given figure below. It is also available on Kaggle.
 https://www.kaggle.com/code/chandrug/symptoms-based-disease-prediction-accuracy-99/data?select=dataset.csv
 You can open the project report for more information
-# Open symptoms.py file if ipynb doesnt open on github
+# Download the project if symptoms-based-disease.ipynb file doesnt open here
